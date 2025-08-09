@@ -22,7 +22,7 @@ export default function Home() {
       </div>
        <footer className="absolute bottom-4 text-center w-full z-10">
         <p className="text-sm text-muted-foreground">
-          Built by an expert designer & engineer.
+          built by a engineering student
         </p>
       </footer>
     </main>
